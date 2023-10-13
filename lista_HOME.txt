@@ -1,0 +1,10 @@
+total 36
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Desktop
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:58 Documents
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Downloads
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Music
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Pictures
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Public
+drwx------ 3 labis2023 labis2023 4096 out 13 16:23 snap
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Templates
+drwxr-xr-x 2 labis2023 labis2023 4096 out 13 16:22 Videos
